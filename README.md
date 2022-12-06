@@ -1,5 +1,3 @@
 # Expense Tracker using React
 
-# App Link
-
-[a link](https://shubham-expensetracker.netlify.app/)
+[App Link](https://shubham-expensetracker.netlify.app/)
