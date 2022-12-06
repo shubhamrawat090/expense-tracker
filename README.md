@@ -15,7 +15,9 @@
 
 # Future Tasks
 
-- Add a real backend to it like **SQL/NoSQL** using **Node, Express**.
+- Checkboxes for income/expense type of inputs as typing '-' is annoying.
+- Make each entry in the history editable.
 - Add a **Clear History** button which on clicking will clear all the entries made.
 - Export to **CSV/XLS** using **xlsx** library.
 - Convert the data into a **Pie Chart** using **chart.js** library.
+- BIG: Add a real backend to it like **SQL/NoSQL** using **Node, Express**.
