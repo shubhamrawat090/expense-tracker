@@ -1,12 +1,12 @@
 # Expense Tracker using React
 
-[App Link](https://shubham-expensetracker.netlify.app/)
+[App Link](https://shubham-expensetracker.netlify.app/){:target="_blank" rel="noopener"}
 
 # Original Project By Traversy Media
 
-[Channel Link](https://www.youtube.com/@TraversyMedia)
+[Channel Link](https://www.youtube.com/@TraversyMedia){:target="_blank" rel="noopener"}
 
-[Original Video](https://www.youtube.com/watch?v=XuFDcZABiDQ)
+[Original Video](https://www.youtube.com/watch?v=XuFDcZABiDQ){:target="_blank" rel="noopener"}
 
 # My Changes
 
