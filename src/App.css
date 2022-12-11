@@ -130,6 +130,18 @@ input[type='number'] {
   border-right: 5px solid #c0392b;
 }
 
+.list li.plus span:first-of-type {
+  width: 190px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.list li.minus span:first-of-type {
+  width: 190px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 .delete-btn {
   cursor: pointer;
   background-color: #e74c3c;
